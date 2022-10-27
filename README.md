@@ -1,9 +1,10 @@
 <h1 align="center">Charsort</h1>
+
 File name: codesolve.c
 
 Author: Nathan Chiche
 
-Date: 10/26/2022
+Date: 10/27/2022
 
 Program Description: 
 
