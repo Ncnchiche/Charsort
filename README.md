@@ -26,4 +26,4 @@ Now that .c file is compiled you can run the executable with the following comma
 Usage: codesolve [-o output_file_name] input_file_name
 
 ## Recommended
-Have the txt files in the same directory/folder as the files
+Have the txt file in the same directory/folder as the files
