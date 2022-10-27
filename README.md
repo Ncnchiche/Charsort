@@ -17,7 +17,7 @@ Usage: codesolve [-o output_file_name] input_file_name
 
 Firstly clone the files from this git repository
 
-from terminal navigate to the folder and type
+from terminal navigate to the folder with the .c and makefile and type
 ```python
 >make
 ```
