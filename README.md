@@ -1,7 +1,10 @@
 <h1 align="center">Charsort</h1>
 File name: codesolve.c
+
 Author: Nathan Chiche
+
 Date: 10/26/2022
+
 Program Description: 
 
 Adds characters to doubly link list from existing file and sorts them with no duplicates, or whitespaces in alphabetical order: Standard output or output to new text file
