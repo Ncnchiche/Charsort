@@ -13,11 +13,6 @@ Usage: codesolve [-o output_file_name] input_file_name
 
  -o outputs sorted doubly linked list with no duplicates to new file
 
-Two things:
-can either sort a file and output to shell 
-or 
-can add file charcters into doubly linked list and sort and output letters to a new file
-
 ## How to Run
 
 Firstly clone the files from this git repository
