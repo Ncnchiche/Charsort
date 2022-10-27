@@ -1,10 +1,7 @@
 /* 
  * File name: codesolve.c
  * Author: Nathan Chiche
- * Panther ID: 6227205
- * Date: 10/26/2022
- * Affirmation of Originality: I affirm that I wrote this program myself without any help from any other people or sources from the internet.
- 
+ * Date: 10/27/2022
  Program Description: 
 
  Adds strings to doubly link list and sorts them with no duplicates alphabetically: Standard output or output to text file
