@@ -3,6 +3,7 @@
 ## Program Description
 
 Adds characters to doubly link list from existing file and sorts them with no duplicates, or whitespaces in alphabetical order: Standard output or output to new text file
+
 Usage: codesolve [-o output_file_name] input_file_name
 
  -o outputs sorted doubly linked list with no duplicates to new file
