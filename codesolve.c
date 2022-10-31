@@ -2,6 +2,9 @@
  * File name: codesolve.c
  * Author: Nathan Chiche
  * Date: 10/27/2022
+ 
+ There are several comments throughout the codebase that includes explanations of how the code works.
+ 
  Program Description: 
 
  Adds strings to doubly link list and sorts them with no duplicates alphabetically: Standard output or output to text file
