@@ -22,3 +22,6 @@ Usage: codesolve [-o output_file_name] input_file_name
 
 ## Recommended
 Have the txt file in the same directory/folder as the files
+
+## Demo
+<img src="https://github.com/Ncnchiche/Maze/blob/3d3983d0edebfd957b064339970eddac08a80b85/maze.gif" alt="demo" width="700">
