@@ -22,3 +22,6 @@ Usage: codesolve [-o output_file_name] input_file_name
 
 ## Recommended
 Have the txt file in the same directory/folder as the files
+
+## What I Learned?
+Learned how to create a doubly linked list from scratch, getting more familiar with C and its syntax, as well as some basic sorting algorithms
