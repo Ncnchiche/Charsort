@@ -16,9 +16,13 @@ from terminal navigate to the folder with the .c and makefile and type
 ```python
 >make
 ```
-Now that .c file is compiled you can run the executable with the following command
+Now that .c file is compiled and the executable has been created
 
-Usage: codesolve [-o output_file_name] input_file_name
+you can run the executable with the following command:
+codesolve [-o output_file_name] input_file_name
+
+ps. "-o outfilename" is optional if you want to output the inputted file sorted to a new file. 
+If you just want it to output to terminal just type the file that you want to sort "codesolve input_file_name"
 
 ## Recommended
 Have the txt file in the same directory/folder as the files
