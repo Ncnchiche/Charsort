@@ -28,4 +28,4 @@ If you just want it to output to terminal just type the file that you want to so
 Have the txt file in the same directory/folder as the files
 
 ## What I Learned?
-Learned how to create a doubly linked list from scratch, getting more familiar with C and its syntax, as well as some basic sorting algorithms
+Learned how to create a doubly linked list from scratch, getting more familiar with C and pointers, as well as some basic sorting algorithms
