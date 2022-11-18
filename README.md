@@ -25,7 +25,10 @@ ps. "-o outfilename" is optional if you want to output the inputted file sorted 
 If you just want it to output to terminal just type the file that you want to sort "codesolve input_file_name"
 
 ## Recommended
-Have the txt file in the same directory/folder as the files
+Have the .txt file in the same directory/folder as the files
 
 ## What I Learned?
 Learned how to create a doubly linked list from scratch, getting more familiar with C and pointers, as well as some basic sorting algorithms
+
+## Time complexity
+This Program uses bubblt sort which is the slowest algorithm and runs at complexity of O(n^2) 

@@ -19,7 +19,8 @@
 #include <ctype.h>
 #include <unistd.h>
 
-FILE *infile, *outfile;// internal File Variable
+// internal File Variable
+FILE *infile, *outfile;
 
 /*-------------------------------------------------------------------------
 Constructs backbone of Doubly Linked List
@@ -36,13 +37,13 @@ struct node* last = NULL;
 
 /*
 -------------------------------------------------------------------------
-Functions
----------
+Functions:
+
 addnode() - Add a node to the list
-sort() -- sorts in alphabetical order
-removeDuplicates() -- remove duplicate letters
-traverselist() -- Display list Starts at head then goes through
-freeList() -- free's nodes at end of program
+sort() - sorts in alphabetical order
+removeDuplicates() - remove duplicate letters
+traverselist() - Display list Starts at head then goes through
+freeList() - free's nodes at end of program
 -------------------------------------------------------------------------
 */
 
