@@ -31,4 +31,4 @@ Have the .txt file in the same directory/folder as the files
 Learned how to create a doubly linked list from scratch, getting more familiar with C and pointers, as well as some basic sorting algorithms
 
 ## Time complexity
-This Program uses bubblt sort which is the slowest algorithm and runs at complexity of O(n^2) 
+This Program uses bubble sort which is the slowest algorithm and runs at time complexity of O(n^2) 
