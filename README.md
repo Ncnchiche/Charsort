@@ -31,4 +31,8 @@ Have the .txt file in the same directory/folder as the files
 Learned how to create a doubly linked list from scratch, getting more familiar with C and pointers, as well as some basic sorting algorithms
 
 ## Time complexity
-This Program uses bubble sort which is the slowest algorithm and runs at time complexity of O(n^2) 
+This Program uses bubble sort which is the slowest algorithm and runs at time complexity of O(n^2).
+The space complexity is O(n) in the doubly linked list.
+
+## Improvements for optimization
+Instead of using bubble sort, you can implement a more efficient sorting algorithm, such as Merge Sort or Quick Sort, which can sort the linked list in O(n log n) time. Also using an array of fixed size (26 for uppercase letters) might be more efficient than a linked list
